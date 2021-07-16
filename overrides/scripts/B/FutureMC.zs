@@ -1,1 +1,0 @@
-mods.recipestages.Recipes.setRecipeStage("B1", <futuremc:suspicious_stew>);

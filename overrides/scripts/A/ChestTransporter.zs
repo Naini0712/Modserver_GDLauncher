@@ -1,1 +1,0 @@
-mods.recipestages.Recipes.setRecipeStageByMod("A2a", "chesttransporter");
